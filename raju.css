@@ -1,0 +1,30 @@
+.r{
+    display: flex;
+    justify-content: center;
+    color: darkorange;
+}
+#p1{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+#t1{
+    color:black;
+}
+#myimage{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height:150px;
+    border-radius: 20px;
+   
+}
+*{
+    background-color:chartreuse;
+}
+.table{
+    color:brown;
+}
+.tr1{
+color:brown;
+}
