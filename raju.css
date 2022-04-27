@@ -19,12 +19,45 @@
     border-radius: 20px;
    
 }
-*{
-    background-color:chartreuse;
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding:10px;
 }
 .table{
     color:brown;
+width:100%;
+
 }
 .tr1{
 color:brown;
+}
+body{
+    padding: 40px;
+    
+}
+.container1{
+    padding:15px;
+    margin:20px;
+    width:150%;
+}
+.container2{
+    padding:15px;
+    margin:20px;
+    width:150%;
+}
+.container3{
+    padding:15px;
+    margin:20px;
+    width:150%;
+}
+.container4{
+    padding:15px;
+    margin:20px;
+    width:150%;
+}
+.container5{
+    padding:15px;
+    margin:20px;
+    width:150%;
 }
